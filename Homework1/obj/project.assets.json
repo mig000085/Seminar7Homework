@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mig\\Новая папка\\Seminar7Homework\\Homework1\\Homework1.csproj",
+      "projectUniqueName": "C:\\Users\\mig\\Desktop\\Seminar7\\Homework1\\Homework1.csproj",
       "projectName": "Homework1",
-      "projectPath": "C:\\Users\\mig\\Новая папка\\Seminar7Homework\\Homework1\\Homework1.csproj",
+      "projectPath": "C:\\Users\\mig\\Desktop\\Seminar7\\Homework1\\Homework1.csproj",
       "packagesPath": "C:\\Users\\mig\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mig\\Новая папка\\Seminar7Homework\\Homework1\\obj\\",
+      "outputPath": "C:\\Users\\mig\\Desktop\\Seminar7\\Homework1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mig\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
